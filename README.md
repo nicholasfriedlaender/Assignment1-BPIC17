@@ -3,6 +3,14 @@
 Analysis of the **BPIC17** event log (Dutch financial institution loan application process) using process mining and deep learning.
 
 
+## Data
+
+Download the BPIC-17 event log (XES format) from the official 4TU repository:
+
+> **BPI Challenge 2017** — https://doi.org/10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b
+
+Place the downloaded `.xes` file in the repo root before running the notebooks.
+
 ## Notebooks
 
 ### part_3.2.ipynb — Event log statistics (§3.2)
